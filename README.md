@@ -43,8 +43,8 @@ SI = (1000 x 5 x 2) / 100 = 100
 ## Installation
 
 ```
-git clone https://github.com/Lancheba/simple-interest-calculator.git
-cd simple-interest-calculator
+git clone https://github.com/Lancheba/github-final-project.git
+cd github-final-project
 ```
 
 ## Usage
