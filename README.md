@@ -7,7 +7,7 @@ A small Python program that calculates simple interest.
 SI = (P x R x T) / 100
 
 - P = Principal amount
-- R = Annual rate of interest (%)
+- R = Annual rate of interest (percent)
 - T = Time in years
 
 ## Example
